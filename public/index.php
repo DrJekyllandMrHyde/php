@@ -39,12 +39,14 @@
 	</nav>
     <!--Nav Bar End-->
     
-    <div class="jumbotron text-center">
-        <h1>Welcome to The Handy Gringo</h1>
+    
+    <div class="jumbotron text-center container-fluid">
+        <h1>The Handy Gringo</h1><br>
+        <p>Best Handyman South of Tucson</p>
     </div>
     
-    <div class="footer">
-        
+    <div class="footer text-center">
+        <p><small>Created by Dorian Dominguez &copy; <?php echo date ("Y"); ?></small></p>
     </div> <!--Footer end-->
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
