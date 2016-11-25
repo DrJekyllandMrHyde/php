@@ -32,7 +32,7 @@
 				<ul class="nav navbar-nav">
 					<li><a href="#aboutSection">The Gringo's Promise</a></li> 
 		        	<li><a href="#portfolioSection">About The Gringo</a></li>
-		        	<li><a href="#contactSection">Contact Me</a></li> 
+		        	<li><a href="#contactSection">Contact The Gringo</a></li> 
 	    		</ul>
     		</div>
 	    </div>
