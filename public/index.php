@@ -17,11 +17,34 @@
 
 
 <body>
+    <!--Nav Bar-->
+    <nav class="navbar navbar-inverse navbar-fixed-top " data-spy="" data-offset-top="">
+	  	<div class="container-fluid">
+	    	<div class="navbar-header">
+	    	 	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span> 
+      			</button>
+	      		<a class="navbar-brand" href="index.html">Dorian Dominguez</a>
+	    	</div>
+			<div class="collapse navbar-collapse" id="navbar" >
+				<ul class="nav navbar-nav">
+					<li><a href="#aboutSection">About Me</a></li> 
+		        	<li><a href="#portfolioSection">Portfolio</a></li>
+		        	<li><a href="#contactSection">Contact</a></li> 
+	    		</ul>
+    		</div>
+	    </div>
+	</nav>
+    <!--Nav Bar End-->
     <div class="jumbotron text-center">
         <h1>Welcome to The Handy Gringo</h1>
     </div>
     
-    
+    <div class="footer">
+        
+    </div> <!--Footer end-->
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
