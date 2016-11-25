@@ -17,7 +17,7 @@
 
 
 <body>
-    <div class="jumbotron">
+    <div class="jumbotron text-center">
         <h1>Welcome to The Handy Gringo</h1>
     </div>
     
