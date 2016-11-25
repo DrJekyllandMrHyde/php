@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php ?>
 <head>
 
     <meta charset="utf-8">
@@ -331,7 +331,7 @@
                                 <li>Service:
                                     <strong><a href="http://startbootstrap.com">Web Development</a>
                                     </strong>
-                                </li>
+                                </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
