@@ -1,4 +1,18 @@
 .jumbotron {
-    margin-top: 100px;
-    padding-top:100px;
+    margin-top: 50px;
+
+   	}
+
+ #jumbo {
+
+ 	background-color: #d0d08a;
+ }
+
+#navi {
+	background-color: #774d22;
+	
+}
+
+img {
+	margin:auto;
 }

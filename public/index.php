@@ -18,7 +18,8 @@
 
 <body>
     <!--Nav Bar-->
-    <nav class="navbar navbar-inverse navbar-fixed-top ">
+    <!--Nav Bar-->
+    <nav id="navi" class="navbar navbar-inverse navbar-fixed-top ">
 	  	<div class="container-fluid">
 	    	<div class="navbar-header">
 	    	 	<button type="button" class="navbar-toggle">
@@ -26,7 +27,7 @@
 			        <span class="icon-bar"></span>
 			        <span class="icon-bar"></span> 
       			</button>
-	      		<a class="navbar-brand" href="index.html">The Handy Gringo</a>
+	      		<a class="navbar-brand" href="index.html" style="color: white;">The Handy Gringo</a>
 	    	</div>
 			<div class="collapse navbar-collapse" id="navbar" >
 				<ul class="nav navbar-nav">
@@ -40,10 +41,12 @@
     <!--Nav Bar End-->
     
     
-    <div class="jumbotron text-center container-fluid">
-        <h1>The Handy Gringo</h1><br>
-        <p>Best Handyman South of Tucson</p>
+    <div id="jumbo" class="jumbotron text-center container-fluid"> 
+        <img class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">
+        <h1>#1 Handyman South of Tucson</h1>
+        <h2>Servicing the Green Valley and Rio Rico area.<br>No job is to small!<br>Free Estimates.</h2>
     </div>
+              
     
     <div class="footer text-center">
         <p><small>Created by Dorian Dominguez &copy; <?php echo date ("Y"); ?></small></p>
