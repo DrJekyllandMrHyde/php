@@ -17,33 +17,8 @@
 
 
 <body>
-    <!--Nav Bar-->
-    <!--Nav Bar-->
-    <nav id="navi" class="navbar navbar-inverse navbar-fixed-top ">
-	  	<div class="container-fluid">
-	    	<div class="navbar-header">
-	    	 	<button type="button" class="navbar-toggle">
-			        <span class="icon-bar"></span>
-			        <span class="icon-bar"></span>
-			        <span class="icon-bar"></span> 
-      			</button>
-	      		<a class="navbar-brand" href="index.php" style="color: white;">The Handy Gringo</a>
-	    	</div>
-			<div class="collapse navbar-collapse" id="navbar" >
-				<?php include('includes/nav.php'); ?>
-    		</div>
-	    </div>
-	</nav>
-    <!--Nav Bar End-->
+<!--Nav Bar-->
+
+ <?php include("includes/nav.php"); ?>
     
-    
-    <div id="jumbo" class="jumbotron text-center container-fluid"> 
-        <div class="row">
-            <div class="col-sm-12 col-md-12">
-                <img class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">
-                <h1>#1 Handyman South of Tucson</h1>
-                <h2>Servicing the Green Valley and Rio Rico area.<br>No job is to small!<br>Free Estimates.</h2>
-            </div>
-        </div>
-    </div>          
-<div class="content">
+<!--Nav Bar End-->
