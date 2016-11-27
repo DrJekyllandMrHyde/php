@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
         <div class="span12">
-    		<div class="thumbnail center well well-small text-center" style="color:#818C38;">
+    		<div class="thumbnail center well well-small text-center" style="background-color:#818C38;">
                 <h2>Newsletter</h2>
                 
                 <p>Enter your email to sign up for the Gringo Gazette!</p>
