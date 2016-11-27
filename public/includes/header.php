@@ -8,9 +8,9 @@
     
     <title>The Handy Gringo</title>
     <!-- Link to css styles -->
-    <link href="https://www.handygringo.com/css/styles.css" rel="stylesheet"> 
+    <link href="/css/styles.css" rel="stylesheet"> 
     <!--Link to Bootstrap-->
-    <link href="https://www.handygringo.com/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
     
     
 </head>
@@ -40,7 +40,7 @@
     <div id="jumbo" class="jumbotron text-center container-fluid"> 
         <div class="row">
             <div class="col-sm-12 col-md-12">
-                <img class="img-responsive" width="450px" height="auto" src="https://www.handygringo.com/img/flyer.jpg">
+                <img class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">
                 <h1>#1 Handyman South of Tucson</h1>
                 <h2>Servicing the Green Valley and Rio Rico area.<br>No job is to small!<br>Free Estimates.</h2>
             </div>
