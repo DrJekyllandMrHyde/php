@@ -15,7 +15,11 @@ include('includes/header.php');
     </div>          
 <div class="content">
 
-<?php include("includes/newsletter.php"); ?>
+<?php 
+
+include("includes/newsletter.php"); 
+
+?>
 
 <?php 
 
