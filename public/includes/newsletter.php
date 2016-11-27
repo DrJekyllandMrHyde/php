@@ -1,7 +1,7 @@
-<div id="newsletter" class="container">
+<div class="container">
 	<div class="row">
         <div class="span12">
-    		<div class="thumbnail center well well-small text-center">
+    		<div id="newsletter" class="thumbnail center well well-small text-center">
                 <h2>Newsletter</h2>
                 
                 <p>Enter your email to sign up for the Gringo Gazette!</p>
