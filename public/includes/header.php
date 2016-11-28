@@ -1,4 +1,8 @@
-<?php include("includes/arrays.php"); ?>
+<?php 
+    $companyName = "The Handy Gringo";
+    include("includes/arrays.php");
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
