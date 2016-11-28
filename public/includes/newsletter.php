@@ -2,7 +2,7 @@
 <div class="container">
 	<div class="row">
         <div class="span12">
-    		<div class="thumbnail center well well-small text-center" style="background-color:#21ae21;">
+    		<div class="thumbnail center well well-small text-center" style="background-color:#6b8e23;">
                 <h2>The Gringo Gazette</h2>
                 
                 <p>Enter your email to sign up for our newsletter!</p>
