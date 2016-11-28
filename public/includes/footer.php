@@ -1,6 +1,6 @@
 
     <div class="footer text-center">
-        <p><small>Created by Dorian Dominguez &copy; <?php echo date ("Y"); ?></small></p>
+        <p><small>Dorian Dominguez &copy; <?php echo date ("Y"); ?></small></p>
     </div> <!--Footer end-->
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
