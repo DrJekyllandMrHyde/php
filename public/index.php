@@ -1,5 +1,5 @@
 <?php 
-
+define("TITLE", "Home | The Handy Gringo");
 include('includes/header.php'); 
 
 ?>
