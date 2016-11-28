@@ -12,9 +12,13 @@
 	    	</div>
 			<div class="collapse navbar-collapse" id="navbar" >
 			    <ul class="nav navbar-nav">
-                    <li><a href="promise.php">The Gringo's Promise</a></li> 
-                    <li><a href="about.php">About The Gringo</a></li>
-                    <li><a href="contact.php">Contact The Gringo</a></li> 
+                    <?php 
+                    
+                    	foreach($navItems as $item) {
+                    		echo "<li><a href=\"$item[slug]\">$item[title]</a></li>";
+                    	}
+                    
+                    ?>
                 </ul>
     		</div>
 	    </div>
