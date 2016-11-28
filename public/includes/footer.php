@@ -1,4 +1,4 @@
-</div>
+
     <div class="footer text-center">
         <p><small>Created by Dorian Dominguez &copy; <?php echo date ("Y"); ?></small></p>
     </div> <!--Footer end-->
