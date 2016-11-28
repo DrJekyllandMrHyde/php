@@ -1,7 +1,8 @@
+<!--Newsletter sign-up-->
 <div class="container">
 	<div class="row">
         <div class="span12">
-    		<div class="thumbnail center well well-small text-center" style="background-color:#d0d08a;">
+    		<div class="thumbnail center well well-small text-center" style="background-color:#21ae21;">
                 <h2>The Gringo Gazette</h2>
                 
                 <p>Enter your email to sign up for our newsletter!</p>
@@ -17,3 +18,4 @@
         </div>
 	</div>
 </div>
+<!--Newsletter end-->
