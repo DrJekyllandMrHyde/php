@@ -1,8 +1,12 @@
+body {
+    background-color: #d0d08a;
+}
 
  #jumbo {
 
  	background-color: #d0d08a;
  	margin-top: 50px;
+ 
  }
 
 #navi {
@@ -14,3 +18,6 @@ img {
 	margin:auto;
 }
 
+li {
+    font-size: 150%;
+}

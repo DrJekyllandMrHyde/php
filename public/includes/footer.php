@@ -1,10 +1,10 @@
-
-            </div>
+          </div>
         </div>
     </div>
     <!--Jumbotron End-->
+    
     <div class="footer text-center">
-        <hr>
+        
         <p><small>&copy;<?php echo date ("Y"); ?> <?php echo $companyName; ?></small></p>
     </div> <!--Footer end-->
     
