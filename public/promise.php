@@ -9,11 +9,27 @@
 include("includes/header.php"); 
 
 ?>
-    <div class="container-fluid text-center" style="margin-top: 100px;">
-        <h1>The Gringo's Promise</h1>
-        <hr>
-        <h3>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</h3>
-    </div>
+    
+    <div id="jumbo" class="jumbotron text-center container-fluid"> 
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                
+                <div class="promiseHead"><h1 style="font-size:900%">The Gringo's Promise</h1></div>
+                <hr>
+                <br>
+                <h2 style="font-size:300%"><u>I promise to show up on time and ready to work.</u></h2>
+                <br>
+                <h2 style="font-size:300%"><u>I promise to give you an accurate estimate.</u> </h2>
+                <br>
+                <h2 style="font-size:300%"><u>I promise you won't pay until you're happy with the job.</u> </h2>
+                <br>
+                <h2 style="font-size:300%"><u>I promise you'll be so happy you'll call me back the next time you need me.</u></h2>
+                
+                
+            </div>
+        </div>
+    </div>          
+
     
     
 <?php 
