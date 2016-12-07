@@ -14,9 +14,11 @@
     
     <title><?php echo TITLE; ?></title>
     <!-- Link to css styles -->
-    <link href="/css/styles.css" rel="stylesheet"> 
+    <link href="/css/styles.css" media="all" rel="stylesheet" type="text/css"> 
     <!--Link to Bootstrap-->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <!--Font Awesome-->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     
     
 </head>

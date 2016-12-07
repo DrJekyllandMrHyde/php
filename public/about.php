@@ -18,7 +18,7 @@ include("includes/header.php");
 <br>
 <br>
     After retiring I got bored of sitting around and doing nothing, so I decided to start The Handy Gringo!
-    I offer my services as a non-licenced contractor but I promise you honest depenable work at a resonable price.
+    I offer my services as a non-licenced contractor but I promise you honest dependable work at a reasonable price.
 <br>
 <br>
 <h3><u>I also enjoy being a part of the community.</u></h3>

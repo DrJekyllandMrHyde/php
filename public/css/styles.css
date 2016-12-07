@@ -1,6 +1,3 @@
-body {
-    background-color: #d0d08a;
-}
 
  #jumbo {
 
@@ -18,6 +15,11 @@ img {
 	margin:auto;
 }
 
-li {
-    font-size: 150%;
+.yelp:hover{
+    
+    color:red;
 }
+
+
+
+
