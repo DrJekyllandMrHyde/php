@@ -14,7 +14,7 @@ include("includes/header.php");
         <div class="row">
             <div class="col-sm-12 col-md-12">
                 
-                <div class="promiseHead"><h1 style="font-size:900%">The Gringo's Promise</h1></div>
+                <h1 style="font-size:900%">The Gringo's Promise</h1>
                 <hr>
                 <br>
                 <h2 style="font-size:300%"><u>I promise to show up on time and ready to work.</u></h2>
