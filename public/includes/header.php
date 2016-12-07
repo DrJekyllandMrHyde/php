@@ -28,3 +28,10 @@
  <?php include("includes/nav.php"); ?>
     
 <!--Nav Bar End-->
+
+<!-- Jumbotron-->
+    <div id="jumbo" class="jumbotron text-center container-fluid"> 
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                
+
