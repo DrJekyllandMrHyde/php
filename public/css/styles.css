@@ -1,25 +1,29 @@
+body{
+    background-color: #d0d08a;
+    
+}
 
- #jumbo {
-
- 	background-color: #d0d08a;
- 	margin-top: 50px;
- 
- }
+#wrapper {
+    margin-top: 100px;
+}
 
 #navi {
 	background-color: #774d22;
-	
+	font-family:'Pacifico', cursive;
 }
 
 img {
 	margin:auto;
+	
 }
 
-.yelp:hover{
-    
-    color:red;
+#contactDiv {
+    margin-top: 70px;
+    font-family: 'Permanent Marker', cursive;;
 }
 
-
+#commentSubmit {
+    margin-top: 25px;
+}
 
 

@@ -13,13 +13,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <title><?php echo TITLE; ?></title>
-    <!-- Link to css styles -->
-    <link href="/css/styles.css" media="all" rel="stylesheet" type="text/css"> 
     <!--Link to Bootstrap-->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Link to css styles -->
+    <link href="/css/styles.css" media="all" rel="stylesheet" type="text/css">
     <!--Font Awesome-->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    
+    <!--Google Font-->
+    <link href="https://fonts.googleapis.com/css?family=Alex+Brush|Open+Sans+Condensed:300|Pacifico|Permanent+Marker" rel="stylesheet">
     
 </head>
 
@@ -31,9 +32,9 @@
     
 <!--Nav Bar End-->
 
-<!-- Jumbotron-->
-    <div id="jumbo" class="jumbotron text-center container-fluid"> 
-        <div class="row">
-            <div class="col-sm-12 col-md-12">
+<!-- Wrapper -->
+<div id="wrapper">
+   
+   <div id="content" class=" container-fluid text-center">
                 
 

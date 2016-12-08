@@ -1,20 +1,22 @@
-          </div>
         </div>
+        <!--Content End-->
     </div>
-    <!--Jumbotron End-->
-    
-    <div class="footer text-center">
+    <!--Wrapper End-->
         
-        <p><small>&copy;<?php echo date ("Y"); ?> <?php echo $companyName; ?></small></p>
-    </div> <!--Footer end-->
     
+        <footer>
+            <div class="container-fluid text-center">
+                <small>&copy;<?php echo date ("Y"); ?> <?php echo $companyName; ?></small>
+            </div>
+        </footer>
+        <!--Footer end-->
         
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!--Link to jQuery-->
     <script src="/js/bootstrap.min.js"></script>
-    </div>
+   
 </body>
 
 

@@ -12,26 +12,29 @@ include("includes/header.php");
 ?>
 
 <!--Social Media Links-->
-<div class="container-fluid text-center">
-    <div class="row">
-           <div class="col-sm-12">
-                <h2>
-                    <a href="#" class="yelp" title="Yelp"><i style="color: #6b8e23;" class="fa fa-yelp fa-3x"></i></a>
-                    <a href="#" class="facebook" title="Facebook"><i style="color: #6b8e23" class="fa fa-facebook fa-3x"></i></a>
-                    <a href="#" class="email" title="Emailr"><i style="color: #6b8e23" class="fa fa-envelope fa-3x"></i></a>
-                    <a href="#" class="phone" title="Phone"><i style="color: #6b8e23" class="fa fa-phone fa-3x"></i></a>
-                </h2>		
-			</div>
-        </div>
+<div class="container-fluid">
+	<div id="socialRow" class="row">
+		<div class="col-sm-3">
+			<a href="#"><img class="img-responsive" src="/img/yelp.png" alt="Yelp"></a>
+		</div>
+		<div class="col-sm-3">
+			<a href="#"><img class="img-responsive" src="/img/facebook.png" alt="Facebook"></a>
+		</div>
+		<div class="col-sm-3">
+			<a href="#"><img class="img-responsive" src="/img/phone.png" alt="Email"></a>
+		</div>
+		<div class="col-sm-3">
+			<a href="#"><img class="img-responsive" src="/img/email.png" alt="Phone"></a>
+		</div>
     </div>
 </div>
 
 <!--Contact section -->
- <div class="container-fluid text-center" id="contactSection">
+ <div class="container-fluid text-center" id="contactDiv">
 	<div class="row">
 		<div class="col-lg-6 col-lg-offset-3">
 			<div class="" id="">
-				<span class="contactHead"><h2>Contact Me</h2></span>
+				<span class="contactHead"><h2>Drop Me A Line!</h2></span>
 				<br>
 				<!-- Name Input -->
 				<div class="form-group">
@@ -48,8 +51,10 @@ include("includes/header.php");
       				  <label for="comment">Message:</label>
       				  <textarea class="form-control" rows="5" id="comment"></textarea>
 				</div>
+				<div id="commentSubmit">
 					<button type="button" class="btn" style="background-color: #6b8e23" ><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
 				</div>
+			</div>
 		</div>
 	</div>
 </div>
