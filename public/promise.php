@@ -13,7 +13,7 @@ include("includes/header.php");
  
 <div id="promiseText" style="font-family: 'Alex Brush', cursive;">
     <h1 style="font-size:600%">The Gringo's Promise</h1>
-    <hr>
+    <img class="img-responsive" src=""/>
     <br>
     <h2 style="font-size:300%">I promise to show up on time and ready to work.</h2>
     <br>

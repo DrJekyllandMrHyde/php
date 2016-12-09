@@ -19,7 +19,7 @@ include('includes/header.php');
     <br>
 </div>            
 
-<img class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">
+<img id="flyer" class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">
 
 
 
