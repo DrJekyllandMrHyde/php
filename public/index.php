@@ -15,8 +15,9 @@ include('includes/header.php');
     <h1>#1 Handyman South of Tucson</h1>
     <h2>Servicing the Green Valley and Rio Rico area</h2>
     <h2>No job is to small</h2>
-    <h2><u><strong>Call for a Free Estimate</strong></u></h2>
     <br>
+    <h2><u><strong><a href="tel:+1-520-455-8186">Call for a Free Estimate</a></strong></u></h2>
+
 </div>            
 
 <img id="flyer" class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">

@@ -21,7 +21,7 @@ include("includes/header.php");
     <br>
     <h2 style="font-size:300%">I promise you won't pay until you're happy with the job.</h2>
     <br>
-    <h2 style="font-size:300%">I promise you'll be so happy you'll call me back the next time you need a handyman.</h2>
+    <h2 style="font-size:300%">I promise you'll be so happy you'll call me back the next time you need a handyman!</h2>
 </div>            
 
     

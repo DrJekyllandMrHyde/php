@@ -21,10 +21,10 @@ include("includes/header.php");
 			<a href="#"><img class="img-responsive" src="/img/facebook.png" alt="Facebook"></a>
 		</div>
 		<div class="col-sm-3">
-			<a href="#"><img class="img-responsive" src="/img/phone.png" alt="Email"></a>
+			<a href="tel:+1-520-455-8186"><img class="img-responsive" src="/img/phone.png" alt="Phone"></a>
 		</div>
 		<div class="col-sm-3">
-			<a href="#"><img class="img-responsive" src="/img/email.png" alt="Phone"></a>
+			<a href="mailto:handygringo@gmail.com" subject="Website Message"><img class="img-responsive" src="/img/email.png" alt="Email"></a>
 		</div>
     </div>
 </div>

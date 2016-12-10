@@ -8,7 +8,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span> 
 		</button> 
-		<a class="navbar-brand" href="index.php" style="color: white; font-family:'Pacifico', cursive;">The Handy Gringo</a>
+		<a id="logo" class="navbar-brand" href="index.php">The Handy Gringo</a>
 	</div>
 	<!--Nav Bar Collapse-->
 		<div class="collapse navbar-collapse" id="navbar" >
