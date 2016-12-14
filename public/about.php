@@ -24,9 +24,9 @@ include("includes/header.php");
     <br>
     <h3><u>I also enjoy being a part of the community.</u></h3>
       <br>
-          <h2>Rotary club Member for Over 25 Years.</h2>
+          <h2>Rotary Club Member for Over 25 Years.</h2>
           <h2>School Board President in Granite Falls, WA.</h2>
-          <h2>I host the Annual Bikes for Tikes Drive.</h2>
+          <h2>Host of the Annual Bikes for Tikes Drive.</h2>
           <h2>Boy Scout Leader for Many Years.</h2>
         
 </div>
