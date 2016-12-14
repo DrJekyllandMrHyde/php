@@ -13,6 +13,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <title><?php echo TITLE; ?></title>
+    <!--Favicon-->
+    <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
     <!--Link to Bootstrap-->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <!-- Link to css styles -->
