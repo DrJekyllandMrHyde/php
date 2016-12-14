@@ -31,9 +31,10 @@
  <div class="container-fluid text-center" id="contactDiv">
 	<div class="row">
 		<div class="col-lg-6 col-lg-offset-3">
-			<form>
-				<span class="contactHead"><h2>Drop Me A Line!</h2></span>
-				<br>
+			<span class="contactHead"><h2>Drop Me A Line!</h2></span>
+			<br>
+			<!--Start of Form-->
+			<form action="mail.php" method="POST">
 				<!-- Name Input -->
 				<div class="form-group">
   				    <label for="usr">Name:</label>
@@ -47,12 +48,13 @@
 				<!-- Message Input -->
 				<div class="form-group">
       				  <label for="comment">Message:</label>
-      				  <textarea class="form-control" name="message" rows="5" id="comment" required placeholder="What Can I Help You With?"></textarea>
+      				  <textarea class="form-control" name="message" rows="5" id="message" required placeholder="What Can I Help You With?"></textarea>
 				</div>
 				<div id="commentSubmit">
 					<button type="button" class="btn btn-success" ><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
 				</div>
 			</form>
+			<!-- Form End -->
 		</div>
 	</div>
 </div>
