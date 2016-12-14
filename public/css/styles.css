@@ -3,11 +3,19 @@ body{
     
 }
 
+#wrapper {
+    margin-top: 100px;
+}
+
 #logo, #navbarItems, #navi {
 	background-color: #774d22;
 	font-family:'Pacifico', cursive;
 	 
 }
+
+
+
+
 
 img {
 	margin:auto;
@@ -19,15 +27,18 @@ img {
     font-family: 'Permanent Marker', cursive;
 }
 
-
+/*Newsletter sign up in contact*/
+#newsSign {
+    font-family: 'Permanent Marker', cursive;
+}
 
 #commentSubmit {
     margin-top: 25px;
    
 }
 
-#flyer {
-    margin-top: 200px;
+#flyer{
+    margin-top: 100px;
     margin-bottom: 200px;
 }
 
