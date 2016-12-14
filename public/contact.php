@@ -51,7 +51,7 @@
       				  <textarea class="form-control" name="message" rows="5" id="message" required placeholder="What Can I Help You With?"></textarea>
 				</div>
 				<div id="commentSubmit">
-					<button type="button" class="btn btn-success" ><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
+					<input type="submit" class="btn btn-success" value="Send"><input type="reset" value="Clear"><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
 				</div>
 			</form>
 			<!-- Form End -->
