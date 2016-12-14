@@ -2,7 +2,7 @@
 $curl = curl_init();
 $name = $_POST['name']; 
 $email = $_POST['email']; 
-$subject = $_POST['subject']; 
+ 
 $message = $_POST['message'];
 curl_setopt_array($curl, array(
   CURLOPT_URL => "https://api.sendgrid.com/v3/mail/send",
