@@ -13,8 +13,8 @@ include("includes/header.php");
  
 <div id="promiseText" style="font-family: 'Alex Brush', cursive;">
     <h1 style="font-size:600%">The Gringo's Promise</h1>
-    <img class="img-responsive" src=""/>
-    <br>
+    <img id="promiseHr" class="img-responsive"  style="margin-top:-150px; margin-bottom: -75px;" src="/img/hr.png"/>
+    
     <h2 style="font-size:300%">I promise to show up on time and ready to work.</h2>
     <br>
     <h2 style="font-size:300%">I promise to give you an accurate estimate.</h2>
@@ -26,11 +26,6 @@ include("includes/header.php");
 
     
     
-<?php 
-
-    define("TITLE", "Promise | The Handy Gringo");
-    
-?>
 
 
 <?php

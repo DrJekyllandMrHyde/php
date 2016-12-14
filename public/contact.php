@@ -5,12 +5,10 @@
 ?>
 
 
-<?php
+<?php include("includes/header.php"); ?>
 
-include("includes/header.php"); 
-
-?>
-
+<?php include("includes/newsletter.php"); ?>
+<br />
 <!--Social Media Links-->
 <div class="container-fluid">
 	<div id="socialRow" class="row">
@@ -52,7 +50,7 @@ include("includes/header.php");
       				  <textarea class="form-control" rows="5" id="comment"></textarea>
 				</div>
 				<div id="commentSubmit">
-					<button type="button" class="btn" style="background-color: #6b8e23" ><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
+					<button type="button" class="btn btn-success" ><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
 				</div>
 			</div>
 		</div>

@@ -8,11 +8,11 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span> 
 		</button> 
-		<a id="logo" class="navbar-brand" href="index.php">The Handy Gringo</a>
+		<a class="navbar-brand" href="index.php" style="color: white; font-family:'Pacifico', cursive;">The Handy Gringo</a>
 	</div>
 	<!--Nav Bar Collapse-->
-		<div class="collapse navbar-collapse" id="navbar" >
-			<ul class="nav navbar-nav" style="font-family:'Pacifico', cursive;">
+		<div class="collapse navbar-collapse"  >
+			<ul class="nav navbar-nav navbar-right"  style=" color: white; font-family:'Pacifico', cursive;">
 			<!--Nav Items foreach loop-->
 			<?php 
 			

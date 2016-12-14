@@ -4,7 +4,7 @@
     <!--Wrapper End-->
         
     
-        <footer>
+        <footer class="footer">
             <div class="container-fluid text-center">
                 <small>&copy;<?php echo date ("Y"); ?> <?php echo $companyName; ?></small>
             </div>

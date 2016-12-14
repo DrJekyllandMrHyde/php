@@ -16,7 +16,12 @@ $navItems = array(
                 array(
                     slug => "contact.php",
                     title => "Contact The Gringo"
+                ),
+                array(
+                    slug => "gallery.php",
+                    title => "Gallery"
                 )
+                
                 );
                 
 ?>

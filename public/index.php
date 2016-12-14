@@ -18,17 +18,15 @@ include('includes/header.php');
     <br>
     <h2><u><strong><a href="tel:+1-520-455-8186">Call for a Free Estimate</a></strong></u></h2>
 
-</div>            
+</div>
 
-<img id="flyer" class="img-responsive" width="450px" height="auto" src="/img/flyer.jpg">
+<div id="flyer">
+    <img class="img-responsive" width="550px" height="auto" src="/img/flyer.jpg">
+</div>
 
 
 
-<?php 
 
-include("includes/newsletter.php"); 
-
-?>
 
 <?php 
 
