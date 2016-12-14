@@ -37,7 +37,7 @@
 
 			
 			<!--Start of Form-->
-			<form action="mail.php" method="POST">
+			<form action="mailer.php" method="POST">
 				<!-- Name Input -->
 				<div class="form-group">
   				    <label for="usr">Name:</label>
