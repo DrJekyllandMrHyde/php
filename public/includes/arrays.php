@@ -4,11 +4,6 @@
 $navItems = array(
                 
                 array(
-                    slug => "promise.php",
-                    title => "The Gringo's Promise"
-                ),
-                
-                array(
                     slug => "about.php",
                     title => "About The Gringo"
                 ),
@@ -19,7 +14,7 @@ $navItems = array(
                 ),
                 array(
                     slug => "gallery.php",
-                    title => "Gallery"
+                    title => "Gringo's Gallery"
                 )
                 
                 );
