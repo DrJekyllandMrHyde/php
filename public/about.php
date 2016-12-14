@@ -12,7 +12,7 @@ include("includes/header.php");
 
 <img src="/img/john.png" class="img-responsive" style="float:right"/>
 <br>
-<div id="aboutText" style="font-family: 'Open Sans Condensed', sans-serif;">
+<div id="aboutText">
     <h2>
         I am John Morrison a Washington State native that retired in Rio Rico, Arizona.  
         Over the years, I've built houses from the ground up, held an electrical journeyman card and ran my own electrical contractor outfit.

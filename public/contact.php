@@ -31,28 +31,28 @@
  <div class="container-fluid text-center" id="contactDiv">
 	<div class="row">
 		<div class="col-lg-6 col-lg-offset-3">
-			<div class="" id="">
+			<form>
 				<span class="contactHead"><h2>Drop Me A Line!</h2></span>
 				<br>
 				<!-- Name Input -->
 				<div class="form-group">
   				    <label for="usr">Name:</label>
- 				    <input type="text" class="form-control" id="usr">
+ 				    <input type="text" name="name" class="form-control" id="usr" required placeholder="Please Enter Your Name">
 				</div>
 				<!-- Email Input -->
 				<div class="form-group">
 					 <label for="email">Email:</label>
-					 <input type="text" class="form-control" id="email">
+					 <input type="email" name="email" class="form-control" id="email" required placeholder=" Please Enter a Valid Email Address">
 				</div>
 				<!-- Message Input -->
 				<div class="form-group">
       				  <label for="comment">Message:</label>
-      				  <textarea class="form-control" rows="5" id="comment"></textarea>
+      				  <textarea class="form-control" name="message" rows="5" id="comment" required placeholder="What Can I Help You With?"></textarea>
 				</div>
 				<div id="commentSubmit">
 					<button type="button" class="btn btn-success" ><i class="fa fa-paper-plane fa-4x" style="color:white"></i></button>
 				</div>
-			</div>
+			</form>
 		</div>
 	</div>
 </div>
