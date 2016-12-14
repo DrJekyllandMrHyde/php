@@ -6,7 +6,9 @@
     
         <footer class="footer">
             <div class="container-fluid text-center">
+                <hr>
                 <small>&copy;<?php echo date ("Y"); ?> <?php echo $companyName; ?></small>
+                <hr>
             </div>
         </footer>
         <!--Footer end-->
