@@ -21,7 +21,7 @@ img {
 }
 
 #contactDiv {
-    margin-top: 70px;
+    margin-top: 150px;
     font-family: 'Permanent Marker', cursive;
 }
 
@@ -129,7 +129,12 @@ img {
     color: #fff;
 }
 
+#aboutText {
+    font-family: 'Open Sans Condensed', sans-serif;    
+}
+
 #promiseText {
     
     margin-top: 150px;
 }
+
