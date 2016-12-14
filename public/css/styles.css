@@ -7,11 +7,6 @@ body{
     margin-top: 100px;
 }
 
-#logo, #navbarItems, #navi {
-	background-color: #774d22;
-	font-family:'Pacifico', cursive;
-	 
-}
 
 .footer {
     margin-top:50px;
@@ -42,6 +37,7 @@ img {
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
+  font-family:'Pacifico', cursive;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -105,6 +101,8 @@ img {
     background-color: #774d22;
   }
 }
+
+
 #commentSubmit {
     margin-top: 25px;
    
@@ -115,4 +113,19 @@ img {
     margin-bottom: 100px;
 }
 
+/*Modal and Thumbnails*/
+.modal-dialog {
+    width:600px;
+    
+}
+.thumbnail {
+    margin-bottom:6px;
+    
+}
+
+#gallery {
+    margin-top: -25px;
+    font-family:'Pacifico', cursive;
+    color: #fff;
+}
 
