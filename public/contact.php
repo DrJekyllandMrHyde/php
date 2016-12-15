@@ -16,7 +16,7 @@
 			<a href="#"><img class="img-responsive" src="/img/yelp.png" alt="Yelp"></a>
 		</div>
 		<div class="col-sm-3">
-			<a href="#"><img class="img-responsive" src="/img/facebook.png" alt="Facebook"></a>
+			<a href="https://www.facebook.com/thehandygringo"><img class="img-responsive" src="/img/facebook.png" alt="Facebook"></a>
 		</div>
 		<div class="col-sm-3">
 			<a href="tel:+1-520-455-8186"><img class="img-responsive" src="/img/phone.png" alt="Phone"></a>
@@ -84,7 +84,7 @@
 				<!--Anti-Spam-->
 				<div class="form-group">
 					<label>*What is 2+2? (Anti-spam)</label>
-					<input name="human" placeholder="Type Here">
+					<input name="human" placeholder="Type Here" required>
 				</div>
 				<!--Submit Button-->
 				<div id="commentSubmit">
