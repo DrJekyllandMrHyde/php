@@ -62,6 +62,7 @@
 				<div id="commentSubmit">
 					<input type="submit" class="btn btn-success" value="Send">
 				</div>
+				<input type="hidden" name="_next" value="/contact.php" />
 			</form>
 			<!-- Form End -->
 		</div>
