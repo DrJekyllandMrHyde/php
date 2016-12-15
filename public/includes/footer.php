@@ -19,7 +19,7 @@
     <!--Link to jQuery-->
     <script src="/js/bootstrap.min.js"></script>
     <!--Javascript File-->
-    <script src="/js/javascript.js"></script>
+    <script src="/js/main.js"></script>
    
 </body>
 

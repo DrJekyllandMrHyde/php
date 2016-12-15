@@ -37,7 +37,7 @@
 
 			
 			<!--Start of Form-->
-			<form action="mailer.php" method="POST">
+			<form action="https://formspree.io/dorianlazaro@gmail.com" method="POST">
 				<!-- Name Input -->
 				<div class="form-group">
   				    <label for="usr">Name:</label>
