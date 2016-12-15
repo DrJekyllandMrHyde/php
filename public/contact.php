@@ -34,6 +34,19 @@
 			<span class="contactHead"><h2>Drop Me A Line!</h2></span>
 			<br>
 			
+			
+<?php
+	
+
+    
+		if ($_POST['submit'] && $human != '4') {
+			echo '<p>You answered the anti-spam question incorrectly!</p>';
+			} else {
+			echo '<p>You need to fill in all required fields!!</p>';
+		}
+	
+
+?> 
 
 			
 			<!--Start of Form-->
