@@ -11,9 +11,9 @@ curl_setopt_array($curl, array(
   CURLOPT_TIMEOUT => 30,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "POST",
-  CURLOPT_POSTFIELDS => "{\n  \"personalizations\": [\n    {\n      \"to\": [\n        {\n          \"email\": \"[dorianlazaro@gmail.com]\"\n        }\n      ],\n      \"subject\": \"New Contact\"\n    }\n  ],\n  \"from\": {\n    \"email\": \"[FROM EMAIL]\"\n  },\n  \"content\": [\n    {\n      \"type\": \"text/html\",\n      \"value\": \"$name<br>$email<br>$message\"\n    }\n  ]\n}",
+  CURLOPT_POSTFIELDS => "{\n  \"personalizations\": [\n    {\n      \"to\": [\n        {\n          \"email\": \"[dorianlazaro@gmail.com]\"\n        }\n      ],\n      \"subject\": \"New Message From Site\"\n    }\n  ],\n  \"from\": {\n    \"email\": \"[FROM EMAIL]\"\n  },\n  \"content\": [\n    {\n      \"type\": \"text/html\",\n      \"value\": \"$name<br>$email<br>$subject\"\n    }\n  ]\n}",
   CURLOPT_HTTPHEADER => array(
-    "authorization: Bearer [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]",
+    "authorization: Bearer [SG API key]",
     "cache-control: no-cache",
     "content-type: application/json"
   ),
