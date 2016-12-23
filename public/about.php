@@ -18,7 +18,7 @@ include("includes/header.php");
         Over the years, I've built houses from the ground up, held an electrical journeyman card and ran my own electrical contractor outfit.
     <br>
     <br>
-        After retiring I got bored of sitting around, so I decided to start The Handy Gringo!
+        After retiring I got bored of sitting around, so I decided to start The Handy Gringo Handyman Service!
         I offer my services as a non-licenced contractor but I promise you honest dependable work at a reasonable price.
     <br>
     <br>

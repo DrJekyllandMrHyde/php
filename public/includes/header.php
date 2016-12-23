@@ -1,5 +1,5 @@
 <?php 
-    $companyName = "The Handy Gringo";
+    $companyName = "The Handy Gringo Handyman Service";
     include("includes/arrays.php");
 
 ?>
@@ -29,10 +29,7 @@
 
 <body>
 <!--Nav Bar-->
-
- <?php include("includes/nav.php"); ?>
-    
-<!--Nav Bar End-->
+<?php include("includes/nav.php"); ?>
 
 <!-- Wrapper -->
 <div id="wrapper">
