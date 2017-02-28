@@ -10,6 +10,7 @@ include('includes/header.php');
 
 ?>
 
+<div class="parallax"></div>
 
 <div id="indexText" style="font-family: 'Permanent Marker', cursive;">
     <h1>#1 Handyman South of Tucson</h1>
