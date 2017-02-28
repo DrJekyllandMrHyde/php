@@ -58,7 +58,7 @@ body{
 
 .parallax { 
     /* The image used */
-    background-image: url("../img/woodpaint.jpg");
+    background-image: url("/img/woodpaint.jpg");
 
     /* Full height */
     height: 100%; 
